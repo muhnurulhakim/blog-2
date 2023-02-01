@@ -21,7 +21,7 @@ Alih-alih takut sama orang yang belajar banyak jurus tapi melatihnya hanya sekal
 
 Saya ingat, kalo saya pernah menonton video Raditya Dika yang ini:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GjkmsLlMeA8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/GjkmsLlMeA8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 Tiba-tiba hari ini video tersebut muncul lagi di *timeline feed* Youtube saya. Saya tonton lagi, dan sadar kalo ternyata materinya sangat berkelas. Bintang 5/5!
 
@@ -33,7 +33,7 @@ Raditya Dika membahas tips-tips menulis di video yang berdurasi sekitar 22 menit
 
 Pantesan saya merasa seneng banget ketemu lagi sama video ini. Ternyata saya memang lagi membutuhkan materi dasar ini. Saya mau membagikan intisari video tersebut ke dalam tulisan ini. Yuk, lanjut baca.
 
-![Photo by Tyler Nix]({{ site.baseurl }}/assets/img/menulis-unsplash.jpeg)
+![Photo by Tyler Nix]({{ site.baseurl }}/assets/img/menulis-unsplash.jpeg){: .mx-auto.d-block :}
 
 * * *
 
