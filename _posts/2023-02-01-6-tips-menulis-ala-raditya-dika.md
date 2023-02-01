@@ -4,7 +4,7 @@ title: 6 Tips Menulis ala Raditya Dika
 subtitle: 
 cover-img: 
 thumbnail-img: 
-share-img: 
+share-img: /assets/img/menulis-unsplash.jpeg
 tags: [menulis, kreatif]
 ---
 
