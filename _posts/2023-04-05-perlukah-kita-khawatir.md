@@ -28,6 +28,8 @@ Ide itu memang orisinil dari kepala kita, bahkan alur permainannya pun ya ada di
 
 Ibarat gunung, orang lain hanya mengambil langkah duluan berdasarkan yang ia lihat semata. Permukaan gunungnya, bukan dasar gunungnya. Fondasi ide itu hanya kita yang miliki.
 
+Walaupun orang lain ngerjain duluan ide yang terlintas di kepala kita, biarin aja. Kita kerjakan bagian kita. Sentuhannya pasti berbeda. Nggak perlu khawatir.
+
 Jadi, tegakkan kepala. Bersikaplah baik-baik saja.
 
 Wiradesa, 05 April 2023
